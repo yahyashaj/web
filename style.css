@@ -1,0 +1,90 @@
+/*start main rulez*/
+body {
+  background-color: #888;
+}
+
+.container {
+  width: 1170px;
+  margin: auto;
+}
+
+/*end main rulez*/
+/*start hedar*/
+.container .slider img {
+  height: 500px;
+  width: 100%;
+}
+.container .navbar {
+  background-color: #252f31;
+  color: #fff;
+  overflow: hidden;
+}
+.container .navbar img {
+  float: left;
+  width: 67px;
+}
+.container .navbar h2 {
+  float: left;
+  text-transform: uppercase;
+}
+.container h2 span {
+  color: #2ecc71;
+}
+.container .topnav {
+  float: right;
+  padding: 20px;
+}
+.container .topnav input {
+  padding: 5px 5px 5px 41px;
+  border-radius: 14px;
+}
+.container .slider {
+  background-color: #eee;
+  height: 500px;
+}
+/*end hedar*/
+/*start labs*/
+.laboratory {
+  overflow: hidden;
+}
+.laboratory .lab {
+  float: left;
+  width: 33.33333%;
+  min-height: 200px;
+  background-color: #ddd;
+  text-align: center;
+}
+/*end labs*/
+/* strt details */
+.details {
+  overflow: hidden;
+  background-color: #f2f2f2;
+}
+.container .image {
+  float: left;
+  width: 40%;
+}
+
+.container .info {
+  background-color: #f2f2f2;
+  float: left;
+  width: 60%;
+}
+
+/* end details */
+/* start about us */
+.aboutus {
+  background-color: #ddd;
+}
+
+/* end about us */
+/* start footer */
+footer {
+  text-align: center;
+  padding: 20px;
+}
+/* end footer */
+
+.form-control {
+  padding: 10px 0px;
+}
